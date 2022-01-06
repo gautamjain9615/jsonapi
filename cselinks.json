@@ -1,62 +1,46 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
+{
+  "cn": {
     "title": "cn",
     "link": "https://meet.google.com/yha-okqk-pdf?authuser=1&pli=1"
   },
-  {
-    "userId": 1,
-    "id": 2,
+
+  "cs": {
     "title": "cs",
     "link": "https://meet.google.com/oca-bhjk-vcc?authuser=1&pli=1"
   },
-  {
-    "userId": 1,
-    "id": 3,
+  
+  "es": {
     "title": "es",
     "link": "https://meet.google.com/pjn-zcqt-juo?pli=1&authuser=1"
   },
-  {
-    "userId": 1,
-    "id": 4,
+  
+  "crp": {
     "title": "crp",
     "link": "https://meet.google.com/zzy-rjdj-udj?pli=1&authuser=1"
   },
-  {
-    "userId": 1,
-    "id": 5,
+  
+  "sde": {
     "title": "sde",
     "link": "https://meet.google.com/ykt-qvky-hqt?pli=1&authuser=1"
   },
-  {
-    "userId": 1,
-    "id": 6,
+  
+  "dsl": {
     "title": "dsl",
     "link": "https://meet.google.com/ttt-zohf-brc?pli=1&authuser=1"
   },
-  {
-    "userId": 1,
-    "id": 7,
+  
+  "om": {
     "title": "om",
     "link": "https://meet.google.com/ijb-kctc-faq?authuser=1&pli=1"
   },
-  {
-    "userId": 1,
-    "id": 8,
+  
+  "mhc": {
     "title": "mhc",
     "link": "https://meet.google.com/yeu-tsoq-ihn?authuser=1&pli=1"
   },
-  {
-    "userId": 1,
-    "id": 9,
+  
+  "pe": {
     "title": "pe",
     "link": ""
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "sunt autt",
-    "link": ""
   }
-]
+}
