@@ -1,46 +1,20 @@
 {
-  "cn": {
-    "title": "cn",
-    "link": "https://meet.google.com/yha-okqk-pdf?authuser=1&pli=1"
-  },
+  "cn": "https://meet.google.com/yha-okqk-pdf?authuser=1&pli=1",
 
-  "cs": {
-    "title": "cs",
-    "link": "https://meet.google.com/oca-bhjk-vcc?authuser=1&pli=1"
-  },
-  
-  "es": {
-    "title": "es",
-    "link": "https://meet.google.com/pjn-zcqt-juo?pli=1&authuser=1"
-  },
-  
-  "crp": {
-    "title": "crp",
-    "link": "https://meet.google.com/zzy-rjdj-udj?pli=1&authuser=1"
-  },
-  
-  "sde": {
-    "title": "sde",
-    "link": "https://meet.google.com/ykt-qvky-hqt?pli=1&authuser=1"
-  },
-  
-  "dsl": {
-    "title": "dsl",
-    "link": "https://meet.google.com/ttt-zohf-brc?pli=1&authuser=1"
-  },
-  
-  "om": {
-    "title": "om",
-    "link": "https://meet.google.com/ijb-kctc-faq?authuser=1&pli=1"
-  },
-  
-  "mhc": {
-    "title": "mhc",
-    "link": "https://gautamjain9615.github.io/jsonapi/cselinks.json"
-  },
-  
-  "pe": {
-    "title": "pe",
-    "link": ""
-  }
+  "cs": "https://meet.google.com/oca-bhjk-vcc?authuser=1&pli=1",
+
+  "es": "https://meet.google.com/pjn-zcqt-juo?pli=1&authuser=1",
+
+  "crp": "https://meet.google.com/zzy-rjdj-udj?pli=1&authuser=1",
+
+  "sde": "https://meet.google.com/ykt-qvky-hqt?pli=1&authuser=1",
+
+  "dsl": "https://meet.google.com/ttt-zohf-brc?pli=1&authuser=1",
+
+  "om": "https://meet.google.com/ijb-kctc-faq?authuser=1&pli=1",
+
+  "mhc": "https://gautamjain9615.github.io/jsonapi/cselinks.json",
+
+  "pe": ""
 }
+  
