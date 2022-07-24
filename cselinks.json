@@ -1,11 +1,11 @@
 {
-   "sfm": "LHB ",
-  "mnv": "LHB ",
-  "pied": "LHB ",
-  "far": "LHB ",
-  "itb": "LHB ",
-  "es": "LHB ",
-  "pc": "LHB ",
-  "mm": "LHB ",
+   "sfm": "SME L2",
+  "mnv": "SME L5",
+  "pied": "LHB 307",
+  "far": "SME L1",
+  "itb": "LHB 308",
+  "es": "LHB 110",
+  "pc": "CSE 102",
+  "mm": "SME L1",
   "free": ""
 }
