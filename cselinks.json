@@ -1,14 +1,13 @@
 {
-  "sfm": {"room": "LHB 105", "link": ""},
-  "mnv": {"room": "SME L5", "link": ""},
-  "pied": {"room": "LHB 307", "link": ""},
-  "far": {
-    "room": "SME L1",
-    "link": "https://meet.google.com/xcs-pdfq-dyo?authuser=1"
-  },
-  "itb": {"room": "LHB 308", "link": "https://meet.google.com/taf-opgt-oyz?authuser=1"},
-  "es": {"room": "LHB 110", "link": ""},
-  "pc": {"room": "LHB 106", "link": "https://meet.google.com/vtm-uikk-qqo?authuser=1"},
-  "mm": {"room": "SME L1", "link": "https://meet.google.com/kft-jaju-iki?authuser=1"},
+  "mde": {"room": "LHB 105", "link": ""},
+  "mi": {"room": "SME L5", "link": ""},
+  "fol": {"room": "MT 109", "link": ""},
+  "pe": {"room": "LHB 110", "link": ""},
+  "mm": {"room": "LHB 105", "link": ""},
+  "ecn": {"room": "LHB 106", "link": ""},
+  "ge": {"room": "SME L6", "link": ""},
+  "as": {"room": "CS 101", "link": ""},
+  "cv": {"room": "LHB 106", "link": ""},
+  "efc": {"room": "LHB 105", "link": ""},
   "free": {"room": "", "link": ""}
 }
