@@ -1,13 +1,13 @@
 {
   "mde": {"room": "LHB 105", "link": ""},
   "mi": {"room": "SME L5", "link": ""},
-  "fol": {"room": "MT 109", "link": ""},
+  "rot": {"room": "MT 112", "link": ""},
   "pe": {"room": "LHB 110", "link": ""},
   "mm": {"room": "LHB 105", "link": ""},
   "ecn": {"room": "LHB 106", "link": ""},
   "ge": {"room": "SME L6", "link": ""},
-  "as": {"room": "CS 101", "link": ""},
-  "cv": {"room": "LHB 106", "link": ""},
-  "efc": {"room": "LHB 105", "link": ""},
+  "bc": {"room": "LHB 207", "link": ""},
+  "dl": {"room": "LHB 105", "link": ""},
+  "hf": {"room": "LHB 205", "link": ""},
   "free": {"room": "", "link": ""}
 }
